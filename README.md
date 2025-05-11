@@ -58,6 +58,8 @@
   </tbody>
 </table>
 
+<p>The type of wirefrane in the figam design is a high fidelity wireframe</p>
+
 <h2>Popular framing tools</h2>
 <ul>
     <li>Adobe XD</li>
@@ -108,9 +110,30 @@ Here's a brief overview of its features and why it's useful for wireframing:</p>
     </li>
     <li>Facilitating Communication Among Team Members:
 
-    <li>Shared Visual Language: Wireframes offer a simple, visual way for everyone involved – designers, developers, product managers, and clients – to understand the plan, even if they have different technical backgrounds.</li>
+<li>Shared Visual Language: Wireframes offer a simple, visual way for everyone involved – designers, developers, product managers, and clients – to understand the plan, even if they have different technical backgrounds.</li>
     <li>Early Issue Detection: Reviewing wireframes allows the team to spot potential problems with usability or missing information early in the process, before spending significant time on detailed design or coding.</li>
     <li>Focused Discussions: Instead of talking about abstract ideas, the team can point to specific parts of the wireframe and have more productive conversations about how the user will interact with that element or page.</li>
     <li>Align Expectations: By clearly showing the proposed functionality and user flow in a visual format, wireframes help ensure that everyone on the team has the same understanding of what the final product will be like.</li>
     </li>
 </ol>
+
+<h2>Wireframing real world scenario</h2>
+<h3>Spotify Classical App Concept</h3>
+
+<h3>Context</h3>
+<p>In 2020, designer Christian Storm investigated the pain points of classical-music listeners on Spotify, who struggled to browse and compare recordings under Spotify’s simple artist-song-album metadata model. He sketched wireframes that merged Spotify’s familiar interface with the richer metadata needs of dedicated classical music services like IDAGIO.</p>
+
+<h3>Usability Issue</h3>
+<p>Early navigation prototypes revealed confusion over iconography and terminology: while Spotify’s three-icon nav bar (Home, Search, Library) was familiar, IDAGIO’s labels (Discover, Browse, Collection) better served classical workflows. Quick Maze tests with six classical-music enthusiasts showed about 85% success but pinpointed hesitation around the “Collection” icon and the absence of an “Events” entry</p>
+
+<h3>How It Was Resolved</h3>
+<ul>
+    <li>Hybrid Navigation Bar: The wireframe was updated to retain Spotify’s Home and Search icons, rename “Your Library” to “Library,” and replace Spotify’s triple-line library icon with IDAGIO’s heart symbol—leveraging common UI conventions </li>
+    <li>Iterative Testing & Tweaks: After adding an “Events” tab and simplifying the “Moods” icon mid-process, a second Maze test achieved 95% task success, confirming the refined nav bar </li>
+</ul>
+
+<h3>Impact on the Final Product</h3>
+<ul>
+    <li>Tripled Task Success: In controlled comparisons, users completed browsing and discovery tasks 92% of the time on the Spotify Classical prototype versus 27% on standard Spotify—an unequivocal win for the tailored wireframe approach </li>
+    <li>Doubled Satisfaction: Participants’ satisfaction ratings jumped by 85%, demonstrating that early wireframe-driven iterations not only fixed navigation friction but also delivered an experience classical listeners would champion </li>
+</ul>
