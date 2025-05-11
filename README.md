@@ -109,12 +109,13 @@ Here's a brief overview of its features and why it's useful for wireframing:</p>
         </ul>
     </li>
     <li>Facilitating Communication Among Team Members:
-
-<li>Shared Visual Language: Wireframes offer a simple, visual way for everyone involved – designers, developers, product managers, and clients – to understand the plan, even if they have different technical backgrounds.</li>
+    <ul>
+        <li>Shared Visual Language: Wireframes offer a simple, visual way for everyone involved – designers, developers, product managers, and clients – to understand the plan, even if they have different technical backgrounds.</li>
     <li>Early Issue Detection: Reviewing wireframes allows the team to spot potential problems with usability or missing information early in the process, before spending significant time on detailed design or coding.</li>
     <li>Focused Discussions: Instead of talking about abstract ideas, the team can point to specific parts of the wireframe and have more productive conversations about how the user will interact with that element or page.</li>
     <li>Align Expectations: By clearly showing the proposed functionality and user flow in a visual format, wireframes help ensure that everyone on the team has the same understanding of what the final product will be like.</li>
     </li>
+    </ul>
 </ol>
 
 <h2>Wireframing real world scenario</h2>
@@ -137,3 +138,7 @@ Here's a brief overview of its features and why it's useful for wireframing:</p>
     <li>Tripled Task Success: In controlled comparisons, users completed browsing and discovery tasks 92% of the time on the Spotify Classical prototype versus 27% on standard Spotify—an unequivocal win for the tailored wireframe approach </li>
     <li>Doubled Satisfaction: Participants’ satisfaction ratings jumped by 85%, demonstrating that early wireframe-driven iterations not only fixed navigation friction but also delivered an experience classical listeners would champion </li>
 </ul>
+
+<h2>Summary</h2>
+<p>
+Wireframing is crucial for user-friendly design as it establishes a clear and intuitive structure and navigation, ensures effective placement of key content, and defines smooth user interactions early in the design process. This focus on core usability principles, before visual details are considered, allows for early identification and correction of potential issues, ultimately leading to a more user-centered and easily navigable product.</p>
